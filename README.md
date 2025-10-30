@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
+# Nome: Danyelel Melo
+## Email: dms6@cesar.school
